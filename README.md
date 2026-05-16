@@ -109,13 +109,19 @@ Chennai leads with 109 customers, followed by Delhi (106), Kolkata (94), Noida (
 ---
 
 ## 📸 Output Screenshots
+<img width="1897" height="909" alt="Funnel_chart" src="https://github.com/user-attachments/assets/d848c8e7-68fb-453d-8cf0-24279fb1d5e1" />
 
-> Add screenshots of your Plotly charts here after running the notebook.
->
-> Suggested: funnel chart, conversion table, avg transition days bar chart
+<img width="1907" height="903" alt="City_bar_chart" src="https://github.com/user-attachments/assets/7ccc7143-70c2-446a-80d7-be638378c043" />
 
-![Funnel Chart](images/funnel_chart.png)
-![City Distribution](images/city_distribution.png)
+<img width="1903" height="906" alt="Age_Range_pie_chart" src="https://github.com/user-attachments/assets/6f77a00a-8f68-44f6-b4cf-7f4f48685c6c" />
+
+<img width="1897" height="912" alt="Activity_bar_chart" src="https://github.com/user-attachments/assets/8270db2f-b6cb-4957-9ffc-803951c66399" />
+
+<img width="1897" height="913" alt="Order_month_line_chart" src="https://github.com/user-attachments/assets/20b8bca2-a2ad-4a60-aefa-b161dae22359" />
+
+<img width="1899" height="913" alt="Plan_var_id_bar_chart" src="https://github.com/user-attachments/assets/5980502d-e7ef-46c1-a252-4b14e2fafee3" />
+
+<img width="1903" height="909" alt="Funnel table with conversion % and avg transition days" src="https://github.com/user-attachments/assets/b68cb1eb-0458-440d-b171-5f8a58c68514" />
 
 ---
 
